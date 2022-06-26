@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393026944192",
+    "project_id": "roomreel-230f9",
+    "storage_bucket": "roomreel-230f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393026944192:android:bc62e36df9322488840125",
+        "android_client_info": {
+          "package_name": "com.example.room_reels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393026944192-sq7nb8ct6idhrt2ph6gpqlajklh1j1ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy9YwlWUn6Qh6AW_UIeOlhT0gzFa1f3kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393026944192-sq7nb8ct6idhrt2ph6gpqlajklh1j1ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
